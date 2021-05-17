@@ -1,7 +1,7 @@
-# Shikshit-India
+# Marwa Ilyas
 
 A payment gateaway intergration demo NGO website for education purpose.
-This is my first task <a href="">#Task1</a> of internship at Sparks Foundation GRIP <a href="">#GripApril2021.</a>
+This is my first task <a href="">#Task1</a> of internship at Sparks Foundation GRIP <a href="">#GripMay2021.</a>
 
 
 # Tech stack used
@@ -15,7 +15,7 @@ This is my first task <a href="">#Task1</a> of internship at Sparks Foundation G
 
 - Razorpay
 
-# Check it out <a href="http://anjaliaks.github.io/Shikshit-India/">here</a>
+# Check it out <a href="https://razorpay.com/assets/razorpay-glyph.svg/">here</a>
 
 # Show your support
 
